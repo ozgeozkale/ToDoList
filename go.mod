@@ -1,4 +1,4 @@
-module quinAI
+module ToDoProject
 
 go 1.16
 

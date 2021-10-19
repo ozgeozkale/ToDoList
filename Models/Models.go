@@ -20,6 +20,7 @@ type InputModel struct {
 	Category    string
 	Progress    string
 	Deadline    time.Time
+	Priority    string
 }
 
 type IdModel struct {

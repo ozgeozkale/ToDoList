@@ -1,9 +1,9 @@
 package main
 
 import (
+	"ToDoProject/Config"
+	"ToDoProject/Routes"
 	"fmt"
-	"quinAI/Config"
-	"quinAI/Routes"
 )
 
 var err error

@@ -5,8 +5,8 @@ import (
 
 	"github.com/labstack/echo/v4"
 
-	"quinAI/Models"
-	"quinAI/Service"
+	"ToDoProject/Models"
+	"ToDoProject/Service"
 )
 
 var err error
